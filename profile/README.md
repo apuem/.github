@@ -1,1 +1,7 @@
 ![The APUEM Header](https://raw.githubusercontent.com/apuem/static/master/moon_header.png)
+
+IT'S THE CREATION THAT LEADS US.
+
+WE KEEP ARTISTS AND THEIR CREATIONS ALIVE.
+
+OUR OPEN SOURCE PROJECTS ARE OPEN FOR EVERYBODY. FEEL FREE TO USE THE APUEM FA API.
