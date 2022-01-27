@@ -1,4 +1,4 @@
-![The APUEM Header](https://raw.githubusercontent.com/apuem/static/master/moon_header.png)
+![apuem_spinning](https://user-images.githubusercontent.com/72466440/151450451-6a80c181-cac7-4387-9309-b0638b383578.gif)
 
 IT'S THE CREATION THAT LEADS US.
 
